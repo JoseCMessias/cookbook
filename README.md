@@ -1,2 +1,2 @@
 # cookbook
-Projeto em console de um site de Receitas culinárias
+Projeto em console de uma aplicação de Receitas culinárias
